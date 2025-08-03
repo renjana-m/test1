@@ -2,6 +2,9 @@ package test1;
 import java.util.Scanner;
 
 public class sumofintegers {
+	
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -21,7 +24,13 @@ public class sumofintegers {
 			
 		}
 		System.out.println(sum);
-		
+			
+	}
+	
+	public void subbranch1() {
+		System.out.println("git practice for sub branch 1");
+		// TODO Auto-generated method stub
+
 	}
 
 }
