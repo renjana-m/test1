@@ -32,5 +32,11 @@ public class sumofintegers {
 		// TODO Auto-generated method stub
 
 	}
+	public void subbranch2() {
+		
+		System.out.println("sub branch 2 code ");
+		// TODO Auto-generated method stub
+
+	}
 
 }
