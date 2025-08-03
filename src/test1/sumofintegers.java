@@ -34,7 +34,7 @@ public class sumofintegers {
 	}
 	public void subbranch2() {
 		
-		System.out.println("sub branch 2 code ");
+		System.out.println("sub branch 2 code. Direct master update ");
 		// TODO Auto-generated method stub
 
 	}
